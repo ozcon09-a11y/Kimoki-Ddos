@@ -21,7 +21,7 @@ logo = """
     █▒▒  █▒▒█▒▒█▒▒      █▒▒  █▒█▒▒ █▒▒  █▒▒█▒▒█▒▒  █▒▒  █▒█▒▒ █▒▒  ██▒▒
 
 \033[32m   ════════════════════ THIS SCRIPT IS A DEDICATION ═══════════════════   
-\033[33m                      TO THE STABILIZATION OF THE MARTYRS             
+\033[33m                   TO THE STABILIZATION OF THE MARTYRS             
 \033[34m   ═════════════════════════ design by: KunF24 ═══════════════════════                                  
 """
 faded_text = fade.fire(logo)
