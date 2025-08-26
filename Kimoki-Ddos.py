@@ -21,7 +21,7 @@ logo = """
     █▒▒  █▒▒█▒▒█▒▒      █▒▒  █▒█▒▒ █▒▒  █▒▒█▒▒█▒▒  █▒▒  █▒█▒▒ █▒▒  ██▒▒
 
 \033[32m   ════════════════════ THIS SCRIPT IS A DEDICATION ═══════════════════   
-\033[33m                TO THE STABILIZATION OF THE MARTYRS             
+\033[33m                         TO THE STABILIZATION OF THE MARTYRS             
 \033[34m   ═════════════════════════ design by: KunF24 ═══════════════════════                                  
 """
 faded_text = fade.fire(logo)
@@ -31,7 +31,6 @@ host = ""
 ip = ""
 port = 0
 num_requests = 0
-
 if len(sys.argv) == 2:
     port = 80
     num_requests = 100000000
